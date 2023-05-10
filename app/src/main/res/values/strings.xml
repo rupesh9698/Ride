@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Ride</string>
+    <string name="title_activity_driver_map">Map</string>
+    <string name="title_activity_customer_map">Map</string>
+    <string name="api_key">AIzaSyAV-qBxYYacJSxNRrpetI5XUr0A3HDPiBM</string>
+    <string name="logout">LOGOUT</string>
+    <string name="history">HISTORY</string>
+    <string name="settings">SETTINGS</string>
+    <string name="rating">RATING :</string>
+    <string name="ride_mini">Ride Mini</string>
+    <string name="ride_x">Ride - X</string>
+    <string name="ride_prime">Ride - Prime</string>
+    <string name="call_ride">Call Ride</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="save">SAVE</string>
+    <string name="back">BACK</string>
+    <string name="working">WORKING</string>
+    <string name="cancel_ride">CANCEL RIDE</string>
+    <string name="picked_customer">PICKED CUSTOMER</string>
+    <string name="car_name">Car Name</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_otp_to_your_entered_phone_number">We will send OTP to your entered phone number</string>
+    <string name="Number_9876543210">9876543210</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="enter_your_received_otp_here">Enter your received OTP here</string>
+    <string name="r_i_d_e">RIDE</string>
+    <string name="customer">CUSTOMER</string>
+    <string name="driver">DRIVER</string>
+    <string name="kyc">KYC</string>
+    <string name="account_number">Account Number</string>
+    <string name="re_enter_account_number">Re-enter Account Number</string>
+    <string name="ifsc">IFSC</string>
+    <string name="recipient_name">Recipient Name</string>
+    <string name="ok">OK</string>
+
+</resources>

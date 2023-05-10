@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/failed.png" />
+        <ignore path="src/main/res/drawable/ic_otp.png" />
+        <ignore path="src/main/res/drawable/ic_plane.png" />
+        <ignore path="src/main/res/drawable/ride.png" />
+        <ignore path="src/main/res/drawable/ride_mini.png" />
+        <ignore path="src/main/res/drawable/ride_prime.png" />
+        <ignore path="src/main/res/drawable/ride_x.png" />
+        <ignore path="src/main/res/drawable/soft_background.jpeg" />
+        <ignore path="src/main/res/drawable/successful.png" />
+    </issue>
+</lint>
